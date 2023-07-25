@@ -58,6 +58,8 @@ nav a {
 .hover-animation:hover {
   border-bottom: 2px solid blue;
 }
+
+
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
 * {
@@ -113,6 +115,7 @@ body.dark {
 .fa-sun {
 	color: #f39c12;
 }
+
 nav svg {
   margin: 10px;
 }
