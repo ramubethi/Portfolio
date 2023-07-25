@@ -129,6 +129,7 @@ const projectsObserver = new IntersectionObserver((entries) => {
 
 // projectCard.forEach((card) => projectsObserver.observe(card));
 projectsObserver.observe(projectsContainer);
+
 const chk = document.getElementById('chk');
 
 chk.addEventListener('change', () => {
