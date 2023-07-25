@@ -59,9 +59,6 @@ nav a {
   border-bottom: 2px solid blue;
 }
 
-
-@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
-
 * {
 	box-sizing: border-box;
 }
@@ -69,7 +66,7 @@ body {
 	background-color: #fafafa;
 	transition: background 0.2s linear;
 }
-body.dark {
+body .dark {
 	background: #292c35;
 }
 
